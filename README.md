@@ -3,7 +3,6 @@ Es necesaria la librería PIL:
 		pip install pillow
 
 Ayuda del programa:
-		Usage:
 
 		-c)     Para codificar texto en una imagen.
 
