@@ -1,11 +1,14 @@
 STEGANOGRAPHY
 
+
 INFO
+
 Este programa codifica texto en los píxeles de una imagen, sin notar diferencia a simple vista.
 De momento sólo funciona con imágenes png.
 
 
 FUNCIONAMIENTO
+
 Es necesaria la librería PIL:
 
 		pip install pillow
