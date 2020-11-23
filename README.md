@@ -1,13 +1,13 @@
-<h1 style="text-align:center;">STEGANOGRAPHY</h1>
+<h1 style="text-align:center;">Steganography</h1>
 
 
-<h2>INFO</h2>
+<h2>Info</h2>
 
 Este programa codifica texto en los píxeles de una imagen, sin notar diferencia a simple vista.
 De momento sólo funciona con imágenes png.
 
 
-<h2>FUNCIONAMIENTO</h2>
+<h2>Funcionamiento</h2>
 
 Es necesaria la librería PIL:
 
