@@ -1,4 +1,4 @@
-<h1 style="text-align:center">STEGANOGRAPHY</h1>
+<h1 style="text-align:center;">STEGANOGRAPHY</h1>
 
 
 <h2>INFO</h2>
