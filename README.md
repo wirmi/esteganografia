@@ -1,7 +1,7 @@
 # Steganography
-## Info
 Este programa codifica texto en los píxeles de una imagen, sin notar diferencia a simple vista.
 De momento sólo funciona con imágenes png.
+
 ## Funcionamiento
 Es necesaria la librería PIL:
 
