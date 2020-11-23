@@ -81,6 +81,7 @@ def Codificar(fileOpen, text, fileSave):
 		print("Guardando...")
 		image.save(fileSave) # Guardamos la imagen
 		print("Imagen codificada correctamente.")
+		image.close()
 
 	# Si queremos escribir más texto del que nos permite la imagen, nos avisará
 	else:
